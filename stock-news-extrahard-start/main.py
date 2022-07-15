@@ -5,7 +5,7 @@ import config
 
 STOCK = "RICK"
 COMPANY_NAME = "RCI Hospitality Holdings"
-# Holding company for Rick's Cabaret and other DFW strip clubs c:
+# Holding company for Rick's Cabaret and other strip clubs c:
 
 # Replace all below with relevant API keys, phone numbers, etc.
 twilio_account_sid = config.twilio_account_sid
